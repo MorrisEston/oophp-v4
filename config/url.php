@@ -10,5 +10,5 @@ return [
     //"staticBaseUrl" => null,
     //"scriptName"    => null,
     "urlType"       => \Anax\Url\Url::URL_CLEAN,
-    //"urlType"       => \Anax\Url\Url::URL_APPEND,
+    // "urlType"       => \Anax\Url\Url::URL_APPEND,
 ];

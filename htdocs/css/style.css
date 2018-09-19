@@ -31,7 +31,7 @@ body {
 .outer-wrap-header {
     max-width: 100%;
     min-height: 2em;
-    background-color: #000;
+    background-color: #057588;
     color: #fff;
 }
 
@@ -57,7 +57,7 @@ body {
 .outer-wrap-navbar {
     max-width: 100%;
     min-height: 2em;
-    background-color: #535353;
+    background-color: #057588;
     color: #fff;
     padding: 0.5em 0;
 }
@@ -100,7 +100,7 @@ h1 {
 .outer-wrap-footer {
     max-width: 100%;
     min-height: 10em;
-    background-color: #424242;
+    background-color: #057588;
     color: #fff;
     padding: 1em 0;
 }

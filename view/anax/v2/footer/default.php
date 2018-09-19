@@ -11,4 +11,4 @@ namespace Anax\View;
 
 ?>
 
-FOOTER
+<!-- This is a nice footer -->
