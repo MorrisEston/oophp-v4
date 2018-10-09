@@ -2,6 +2,7 @@
 namespace Morris\Guess;
 
 use Morris\Guess\IsOutOfRange;
+
 /**
  * Guess my number, a class supporting the game through GET, POST and SESSION.
  */
